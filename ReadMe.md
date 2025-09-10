@@ -5,12 +5,14 @@
 
 ## 🔥 Features  
 - Real-Time C++ Scripting with Maximum Performance
-- Raytraced Shadows, Global Illumination, Reflections and Refractions  
-- NVIDIA State-of-the-Art Real-Time Path-Tracing 
+- Fully-Featured Builtin C++ Integrated Development Environment
+- High Performance Hair and Fur Rendering (GPU Fiber)
+- Raytraced Shadows, Global Illumination, Reflections and Refractions
+- NVIDIA State-of-the-Art Real-Time Path-Tracing
 - NVIDIA Deep Learning Super Sampling (DLSS4)
 - User-Mode Secured Virtual File System (SVFS)
 - Six-Way Volumetric Lighting & Vertex Animation Texture
-- CUDA Powered Physics Engine
+- CUDA Powered Real-Time Physics Engine
 - Integrated AI-Powered Terminal Interface
 
 ## 🔒 Closed Source  
