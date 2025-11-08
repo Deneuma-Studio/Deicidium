@@ -47,8 +47,7 @@ Deicidium is a **closed-source** project.
 Its source code is **not publicly available** and distribution or modification is restricted under its licensing terms.
 
 ## Development Status & Release
-Deicidium Engine is currently in development.
-While not yet publicly released, a downloadable build will be made available in the Releases section of this repository once a stable version is ready.
-Stay tuned for upcoming announcements, changelogs, and early access opportunities.
+Deicidium Engine is currently in development. While not yet publicly released, some features will be made available as standalone plugins in future updates.
+Stay tuned for upcoming announcements, changelogs and early access opportunities.
 
 If you have any question about the project, [Ask here](https://github.com/Jenova-Framework/J.E.N.O.V.A/discussions/categories/deicidium).
