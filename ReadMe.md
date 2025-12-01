@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="300" alt="GitHubLogo" src="https://github.com/user-attachments/assets/4639e1ba-2142-4cb6-a256-ee01cb4bebc6">
-</p>
+<p align="center"><img width="300" alt="GitHubLogo" src="https://github.com/user-attachments/assets/b3c88d10-dda2-401d-9c34-2e1203847380"></p>
 
 # Deicidium Engine
 **Deicidium** (aka Saikou Engine) is a high-performance game engine with cutting-edge technolgoies targeting Microsoft Windows (x64) powered by the [Jenova Framework](https://github.com/Jenova-Framework). 
