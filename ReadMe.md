@@ -5,7 +5,7 @@
 
 It builds upon the architectural foundation of [Godot Engine](https://github.com/TheAenema/godot-jenova), introducing a restructured core designed for speed, precision and developer autonomy.  By removing legacy constraints, Deicidium provides a streamlined environment optimized for modern game development workflows and real-time execution. It uses C++ to extend engine capabilities while maintaining optimal performance and low-level control.
 
-![deicidium_screenshot](https://github.com/user-attachments/assets/cce3a445-c9a4-4bd7-8940-7aa1cde284fe)
+![deicidium_screenshot](https://github.com/user-attachments/assets/410c10ee-b51c-4bb8-81f7-36848aa22595)
 
 ## Current Features  
 - Real-Time C++ Scripting with Maximum Performance
