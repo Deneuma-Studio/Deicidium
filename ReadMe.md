@@ -17,6 +17,8 @@ It builds upon the architectural foundation of [Godot Engine](https://github.com
 - User-Mode Secured Virtual File System (SVFS)
 - Native [Six-Way Volumetric Lighting](https://github.com/TheAenema/Godot-Six-Way-Volumetric-Shader) & Parallel Vertex Animation Texture
 - CUDA Powered Real-Time Physics Engine
+- Modernized User Interface Featuring GlassFX and Mica Material
+- Dedicated Razor Rendering Backend Powered by DirectX 12
 - Integrated AI-Powered Terminal Interface
 
 ![Screenshot](https://github.com/user-attachments/assets/642da62e-2a7b-49c4-8ec6-7ea987705de6)
