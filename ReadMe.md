@@ -19,6 +19,8 @@ It builds upon the architectural foundation of [Godot Engine](https://github.com
 - CUDA Powered Real-Time Physics Engine
 - Integrated AI-Powered Terminal Interface
 
+![Screenshot](https://github.com/user-attachments/assets/642da62e-2a7b-49c4-8ec6-7ea987705de6)
+
 ## Showcases
 Some features are demonstrated in the following videos.
 
